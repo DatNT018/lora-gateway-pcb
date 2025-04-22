@@ -1,0 +1,215 @@
+Added Component: Designator=C1(1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1210-10uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C1210"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1210-10uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C1210"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC-0603 (1608)
+Added Component: Designator=C4(CAPC-1210 (3225))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CC1210KKX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "105/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC-1210 (3225))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CC1210KKX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "105/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00592"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "103/16V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found tu 1206
+Add Component: Footprint Not Found tu 1206
+Add Component: Footprint Not Found CAPC-0603 (1608)
+Add Component: Footprint Not Found CAPC-0603 (1608)
+Add Component: Footprint Not Found CAPC-0603 (1608)
+Added Component: Designator=D1(DIODE_DO214AA_SMB)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "P6SMB39AT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39V/11.2A"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD_80)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/rlz30b-diode-zener-27-70-29-13v-500mw-smd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-80 2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "ZMM15"; VariantName = "[No Variations]"
+Added Component: Designator=D3(VISH-DO-214AC-2_L)
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/smaj28a-e3-61-tvs-diode-28v-45-4v-do214ac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12/8/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (uA)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM"; Value = "40 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Junction and Storage Temperature Range"; Value = "-55 to 150 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin DO-214AC (SMA), Body 4.245 x 2.665 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ28A-E3/61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPPM (W)"; Value = "400, 300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VBR Uni-Directional (V)"; Value = "6.4 to 231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VWM (V)"; Value = "28"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIODE_DO214AC_SMA
+Added Component: Designator=F1(1812)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/mf-msmf150-24x-2-cau-chi-tu-phuc-hoi-1812-24v-1-5a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "1812"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR1X3)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "52645182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=KF1(CON 2 KF7.62)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF7.62-2P 7.62MM (Ðen Th?ng)"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Cuon Cam 12x12x10
+Added Component: Designator=R1(RESC-0603 (1608))
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-01025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-07330KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC-0805 (2012)
+Add Component: Footprint Not Found RESC-0603 (1608)
+Add Component: Footprint Not Found RESC-0805 (2012)
+Add Component: Footprint Not Found RESC-0603 (1608)
+Added Component: Designator=U1(SOIC-8-TP)
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TPS54360DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TPS54360"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+12V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+12V Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C11-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=+12V Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Added Pin To Net: NetName=+12VIN Pin=F1-1
+Added Pin To Net: NetName=NetD1_1 Pin=F1-2
+Added Pin To Net: NetName=+12VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+12VIN Pin=KF1-1
+Added Pin To Net: NetName=GND Pin=KF1-2
+Added Pin To Net: NetName=+12V Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R5-1
+Added Pin To Net: NetName=+12V Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Net: Name=+5
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-8
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-4
+Added Net: Name=NetC9_2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=U1-6
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=POWER Member=Component C1 10uF/50V
+Added Member To Class: ClassName=POWER Member=Component C2 10uF/50V
+Add Class Member: Failed to add class member : Component C3 100nF
+Added Member To Class: ClassName=POWER Member=Component C4 4.7uF/25V
+Added Member To Class: ClassName=POWER Member=Component C5 4.7uF/25V
+Added Member To Class: ClassName=POWER Member=Component C6 10nF
+Add Class Member: Failed to add class member : Component C7 33uF
+Add Class Member: Failed to add class member : Component C8 33uF
+Add Class Member: Failed to add class member : Component C9 10nF
+Add Class Member: Failed to add class member : Component C10 4700pF
+Add Class Member: Failed to add class member : Component C11 39pF
+Added Member To Class: ClassName=POWER Member=Component D1 SS34
+Added Member To Class: ClassName=POWER Member=Component D2 RLZ30B
+Added Member To Class: ClassName=POWER Member=Component D3 SMAJ28A-E3/61
+Add Class Member: Failed to add class member : Component D4 SS34
+Added Member To Class: ClassName=POWER Member=Component F1 MF-MSMF150/24X-2
+Added Member To Class: ClassName=POWER Member=Component J1 694105309102
+Added Member To Class: ClassName=POWER Member=Component KF1 CON 2 KF7.62
+Add Class Member: Failed to add class member : Component L1 6.8uH/3A
+Added Member To Class: ClassName=POWER Member=Component R1 332K
+Add Class Member: Failed to add class member : Component R2 10K
+Add Class Member: Failed to add class member : Component R3 68.1K
+Add Class Member: Failed to add class member : Component R4 1.91K
+Add Class Member: Failed to add class member : Component R5 49.9K
+Added Member To Class: ClassName=POWER Member=Component U1 TPS54331RDR

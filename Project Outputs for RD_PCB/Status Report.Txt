@@ -1,0 +1,35 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [RD_PCB.PrjPcb]
+   Generated File[RD_PCB_TEST_Copper_Signal_Top.gbr]
+   Generated File[RD_PCB_TEST_Copper_Signal_Bot.gbr]
+   Generated File[RD_PCB_TEST_Pads_Bot.gbr]
+   Generated File[RD_PCB_TEST_Pads_Top.gbr]
+   Generated File[RD_PCB_TEST_Legend_Top.gbr]
+   Generated File[RD_PCB_TEST_Soldermask_Top.gbr]
+   Generated File[RD_PCB_TEST_Soldermask_Bot.gbr]
+   Generated File[RD_PCB_TEST_Paste_Top.gbr]
+   Generated File[RD_PCB_TEST_Legend_Bot.gbr]
+   Generated File[RD_PCB_TEST_Paste_Bot.gbr]
+   Generated File[RD_PCB_TEST_Keep-out.gbr]
+   Generated File[RD_PCB_TEST_Mechanical_1.gbr]
+   Generated File[RD_PCB_TEST_Top_Component_Center.gbr]
+   Generated File[RD_PCB_TEST_Mechanical_4.gbr]
+   Generated File[RD_PCB_TEST_Top_Assembly.gbr]
+   Generated File[RD_PCB_TEST_Top_3D_Body.gbr]
+   Generated File[RD_PCB_TEST_Top_Courtyard.gbr]
+   Generated File[RD_PCB_TEST_Bottom_Courtyard.gbr]
+   Generated File[RD_PCB_TEST_Bottom_3D_Body.gbr]
+   Generated File[RD_PCB_TEST_Bottom_Assembly.gbr]
+   Generated File[RD_PCB_TEST_Bottom_Component_Center.gbr]
+   Generated File[RD_PCB_TEST_Profile.gbr]
+   Generated File[RD_PCB_TEST_NPTH_Drill.gbr]
+   Generated File[RD_PCB_TEST_PTH_Drill.gbr]
+   Generated File[RD_PCB_TEST.EXTREP]
+   Generated File[RD_PCB_TEST.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 9:37:08 AM On 10/1/2024

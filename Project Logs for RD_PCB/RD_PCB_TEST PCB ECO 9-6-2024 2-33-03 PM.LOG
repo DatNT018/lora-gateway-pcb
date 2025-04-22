@@ -1,0 +1,24 @@
+Add object: Catastrophic failure
+Added Component: Designator=P5(KF128_2P)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "KF128-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P6(KF128_2P)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "KF128-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Pin To Net: NetName=+LED Pin=P5-1
+Added Pin To Net: NetName=-LED Pin=P5-2
+Added Pin To Net: NetName=+LED Pin=P6-1
+Added Pin To Net: NetName=-SIREN Pin=P6-2
+Add Class Member: Failed to add class member : Component P1 KF128 2P
+Added Member To Class: ClassName=OUTPUT Member=Component P5 KF128 2P
+Added Member To Class: ClassName=OUTPUT Member=Component P6 KF128 2P

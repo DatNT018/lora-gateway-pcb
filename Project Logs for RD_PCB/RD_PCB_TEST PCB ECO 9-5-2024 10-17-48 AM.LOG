@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=POWER Member=Component C2 10uF/50V
+Added Member To Class: ClassName=POWER Member=Component D2 RLZ30B
+Added Member To Class: ClassName=POWER Member=Component D3 SMAJ28A-E3/61

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ETHERNET.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ETHERNET.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ETHERNET.SchDoc|FileName=OUTPUT.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ETHERNET.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
