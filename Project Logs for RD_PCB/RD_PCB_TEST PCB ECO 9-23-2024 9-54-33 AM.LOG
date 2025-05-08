@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=-SIREN Pin=P6-2
-Add Component: Footprint Not Found KF128_2P
-Added Pin To Net: NetName=GND Pin=C2-1
-Added Pin To Net: NetName=NetC3_1 Pin=C3-1
-Added Pin To Net: NetName=+LED Pin=C4-2
-Added Pin To Net: NetName=+LED Pin=C5-2
-Added Pin To Net: NetName=GND Pin=C6-1
-Add Pin To Net: Unknown Pin: Pin P?-1
-Add Pin To Net: Unknown Pin: Pin P?-2
